@@ -24,6 +24,9 @@
 
 <h2>Teams</h2>
 
+![06_Users_01](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation/assets/82996237/5ab48c02-7e25-49fb-ab31-9b8bd8052f19)
+
+
 ![5_Teams](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation/assets/82996237/241cc59e-b966-4808-9ae4-12223d194607)
 
 
