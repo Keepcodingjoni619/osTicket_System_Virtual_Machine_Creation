@@ -38,3 +38,5 @@
 <p> The purpose of the SLA Plan is to provide a limit time in which the help desk Administrator expects tickets to be closed.</p>
 
 ![07_SLA](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation/assets/82996237/d8e61346-1a30-462f-ab15-ef5db5b2e5e4)
+
+<h2>Help Topics</h2>
