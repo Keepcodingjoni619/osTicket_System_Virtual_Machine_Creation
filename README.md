@@ -15,4 +15,5 @@
 </ul>
 
 <h2>Roles</h2>
-<img src="03_Roles.png" alt="Roles">
+![03_Roles](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation/assets/82996237/bdd05adc-0bb2-4e73-abd7-14f6edc3660a)
+
