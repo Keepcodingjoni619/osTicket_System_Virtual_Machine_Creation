@@ -40,3 +40,6 @@
 ![07_SLA](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation/assets/82996237/d8e61346-1a30-462f-ab15-ef5db5b2e5e4)
 
 <h2>Help Topics</h2>
+<p>Help Topics will determine what Department the ticket is routed to which will determine which Agents have access to the ticket.</p>
+
+![08_Help_Topics](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation/assets/82996237/c1105754-5883-4dbe-8ac8-9a61a6e0bc4c)
