@@ -20,4 +20,5 @@
 
 <h2>Depatments</h2>
 
+![04_Departments](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation/assets/82996237/a83a8f04-d139-47b7-87ba-f08870c394c8)
 
