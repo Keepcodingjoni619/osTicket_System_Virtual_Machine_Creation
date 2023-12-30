@@ -23,3 +23,7 @@
 ![04_Departments](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation/assets/82996237/a83a8f04-d139-47b7-87ba-f08870c394c8)
 
 <h2>Teams</h2>
+![05_Teams](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation/assets/82996237/ea179551-e876-49f4-926f-a705635c6d9f)
+
+<h2>Users</h2>
+
