@@ -33,3 +33,7 @@
 <h2>Users</h2>
 
 ![06_Users_02](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation/assets/82996237/435dc1eb-45db-462d-9359-e7cd4ec02680)
+
+<h2>Service Level Agreement</h2>
+<p> The purpose of the SLA Plan is to provide a limit time in which the help desk Administrator expects tickets to be closed.</p>
+
