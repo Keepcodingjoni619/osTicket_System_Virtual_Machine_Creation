@@ -15,4 +15,5 @@
 </ul>
 
 <h2>Roles</h2>
-![alt text](http://url/to/03_Roles)
+![03_Roles](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation/assets/82996237/375f1683-f5b1-4ce9-ae68-59587e089bdb)
+
