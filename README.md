@@ -50,3 +50,6 @@
 
 ![Ticket_and_lifecyle01](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation/assets/82996237/a5067ffb-311f-40ed-8499-c7416d2b6e37)
 
+![Ticket_and_lifecycle02](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation/assets/82996237/a93e5d52-4dad-41c6-9b78-477ecbc7d943)
+
+
