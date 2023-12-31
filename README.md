@@ -68,6 +68,7 @@
 
 <h6>Closed Tickets and Resolved</h6>
 <b>
+  
   ![Ticket_and_lifecyle06](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation/assets/82996237/fab50040-159f-49bb-850a-d25843720a85)
 
 <p>Resolved all tickets</p>
