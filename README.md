@@ -62,3 +62,5 @@
 
 ![Ticket_and_lifecyle04](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation/assets/82996237/ea989f18-3616-4efd-ac30-fe001b36b11f)
 
+<p>As you can see, all the current changes/updates made</p>
+
