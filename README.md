@@ -57,5 +57,6 @@
 
 ![Ticket_and_lifecycle03](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation/assets/82996237/f3319004-50f4-41fe-a944-73377a16531d)
 
+<p>Once setting the priority, I then assigned the ticket to Jane Doe</p>
 
 
