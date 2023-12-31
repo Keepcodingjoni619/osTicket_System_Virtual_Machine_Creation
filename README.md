@@ -52,7 +52,7 @@
 
 ![Ticket_and_lifecycle02](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation/assets/82996237/a93e5d52-4dad-41c6-9b78-477ecbc7d943)
 
-<h2>Logging in as support and having access to ticket</h2>
+<h2>Login as support and having access to ticket</h2>
 <p>Based on the ticket concern, I set the priority level from Normal - Emergency</p>
 
 ![Ticket_and_lifecycle03](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation/assets/82996237/f3319004-50f4-41fe-a944-73377a16531d)
