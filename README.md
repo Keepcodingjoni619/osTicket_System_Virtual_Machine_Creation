@@ -76,4 +76,5 @@
 <h6>This Ticket was assign to John Doe </h6>
 <p>Change SLA and priority level</p>
 
+![Ticket_and_lifecyle07](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation/assets/82996237/d5d8ac4d-165f-4f3a-b97a-91babfa0d4e6)
 
