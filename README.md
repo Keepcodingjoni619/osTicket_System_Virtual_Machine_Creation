@@ -45,3 +45,8 @@
 ![08_Help_Topics](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation/assets/82996237/c1105754-5883-4dbe-8ac8-9a61a6e0bc4c)
 
 <h2>Creating a ticket as and end user</h2>
+<p>Here is where I input the customer infomation by providing email address and fullname</p>
+<p>I then set the issues based on priorty and added the issue summary which was the Accounting Dept Adobe reader was not working</p>
+
+![Ticket_and_lifecyle01](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation/assets/82996237/a5067ffb-311f-40ed-8499-c7416d2b6e37)
+
