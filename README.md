@@ -73,6 +73,7 @@
 
 <p>Resolved all tickets</p>
 
+<br>
 <h6>This Ticket was assign to John Doe </h6>
 <p>Change SLA and priority level</p>
 
